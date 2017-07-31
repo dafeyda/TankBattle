@@ -4,6 +4,7 @@
 "asmCodeUrl": "TankBattle.asm.code.unityweb",
 "asmMemoryUrl": "TankBattle.asm.memory.unityweb",
 "asmFrameworkUrl": "TankBattle.asm.framework.unityweb",
+"asmSymbolsUrl": "TankBattle.asm.symbols.unityweb",
 "splashScreenStyle": "Dark",
 "backgroundColor": "#222C36"
 }
